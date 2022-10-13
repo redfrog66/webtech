@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT konyvek (konyv*)>
+<!ELEMENT konyv (szerzo,cim,kiado,kiadaseve,kategoria,isbn-szam)*>
+<!ELEMENT szerzo (#PCDATA)>
+<!ELEMENT cim (#PCDATA)>
+<!ELEMENT kiado (#PCDATA)>
+<!ELEMENT kiadaseve (#PCDATA)>
+<!ELEMENT kategoria (#PCDATA)*>
+<!ELEMENT isbn-szam (#PCDATA)>
+<!ELEMENT sz (#PCDATA)>
+<!ELEMENT c (#PCDATA)>
+<!ELEMENT k (#PCDATA)>
+<!ELEMENT ke (#PCDATA)>
+<!ELEMENT kat (#PCDATA)>
+<!ELEMENT isbn (#PCDATA)>

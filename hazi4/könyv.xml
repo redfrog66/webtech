@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="konyv.dtd" type="application/xml-dtd"?>
+<?xml-stylesheet href="könyv.css" type="text/css"?>
+<body>
+<konyvek>
+<sz>Szerző</sz>
+<c>Cím</c>
+<k>Kiadó</k>
+<ke>Kiadás Éve</ke>
+<kat>Kategória</kat>
+<isbn>ISBN-szám</isbn>
+    <konyv>
+        <szerzo>Stephenie Meyer</szerzo>
+        <cim>Alkonyat</cim>
+        <kiado>KÖNYVMOLYKÉPZŐ KIADÓ KFT.</kiado>
+        <kiadaseve>2005</kiadaseve>
+        <kategoria>romantikus</kategoria>
+        <isbn-szam>9789639708952</isbn-szam>
+    </konyv>
+    <konyv>
+        <szerzo>Stephenie Meyer</szerzo>
+        <cim>The Twilight Saga: Újhold</cim>
+        <kiado>KÖNYVMOLYKÉPZŐ KIADÓ KFT.</kiado>
+        <kiadaseve>2006</kiadaseve>
+        <kategoria></kategoria>
+        <isbn-szam></isbn-szam>
+    </konyv>
+    <konyv>
+        <szerzo>Stephenie Meyer</szerzo>
+        <cim>The Twilight Saga: Napfogyatkozás</cim>
+        <kiado>KÖNYVMOLYKÉPZŐ KIADÓ KFT.</kiado>
+        <kiadaseve>2007</kiadaseve>
+        <kategoria>romantikus</kategoria>
+        <isbn-szam>9789632451770</isbn-szam>
+    </konyv>
+    <konyv>
+        <szerzo>Stephenie Meyer</szerzo>
+        <cim>The Twilight Saga: Hajnalhasadás</cim>
+        <kiado>KÖNYVMOLYKÉPZŐ KIADÓ KFT.</kiado>
+        <kiadaseve>2008</kiadaseve>
+        <kategoria></kategoria>
+        <isbn-szam>9789632454825</isbn-szam>
+    </konyv>
+    <konyv>
+        <szerzo>Stephenie Meyer</szerzo>
+        <cim>Twilight 2.0: Egy életem, egy halálom</cim>
+        <kiado>KÖNYVMOLYKÉPZŐ KIADÓ KFT.</kiado>
+        <kiadaseve>2015</kiadaseve>
+        <kategoria>romantikus</kategoria>
+        <isbn-szam></isbn-szam>
+    </konyv>
+</konyvek>
+</body>

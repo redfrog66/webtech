@@ -1,0 +1,36 @@
+
+
+konyvek {
+  display: table;
+  font-size: 14px;
+  margin: 8px;
+  font-family: Verdana;
+  color: whitesmoke;
+  width: auto;
+}
+sz,c,k,ke,kat,isbn {
+  display: table-cell;
+  text-align: center;
+  font-style: bold;
+  border: 2px solid silver;
+  padding: 10px;
+  background-color: maroon;
+  opacity: 0.9;
+}
+konyv {
+  display: table-row;
+  text-align: center;
+  border: 1px solid silver;
+  padding: 10px;
+  background-color: saddlebrown;
+  opacity: 0.8;
+}
+szerzo,cim,kiado,kiadaseve,kategoria,isbn-szam{
+ display: table-cell;
+ border: solid 1px;
+ width: 22%;
+}
+
+body {
+  background-image: url(loca.jpg);
+}
